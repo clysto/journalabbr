@@ -3,4 +3,5 @@ __pycache__
 /build
 .vscode
 .DS_Store
-/*.txt
+a.txt
+b.txt
